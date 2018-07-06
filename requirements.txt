@@ -1,0 +1,7 @@
+nltk
+regex
+numpy
+pandas
+json
+tqdm
+
